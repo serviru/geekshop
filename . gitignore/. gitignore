@@ -1,0 +1,11 @@
+--2020-10-06 18:52:51--  https://raw.githubusercontent.com/github/gitignore/master/Global/VisualStudioCode.gitignore
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.84.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.84.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166 [text/plain]
+Saving to: ‘VisualStudioCode.gitignore’
+
+     0K                                                       100% 5.35M=0s
+
+2020-10-06 18:52:52 (5.35 MB/s) - ‘VisualStudioCode.gitignore’ saved [166/166]
+
